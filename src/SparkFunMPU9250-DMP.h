@@ -78,6 +78,8 @@ public:
 	unsigned long time;
 	float pitch, roll, yaw;
 	float heading;
+	float magnetic_declination = -1.0083;
+	
 	
 	MPU9250_DMP();
 	
