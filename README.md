@@ -19,6 +19,8 @@ It will say either Declination is NEGATIVE (WEST) or POSITIVE (EAST)
 between locations. This means that you should update your Magnetic 
 Declination once or twice a year and re-flash your Tracker sketch
 
+variable is in the header file https://github.com/djblazkowicz/SparkFun_MPU-9250-DMP_Arduino_Library/blob/905a8e5efdb94b729e3d708b1e1c00695626d4e2/src/SparkFunMPU9250-DMP.h#L81
+
 --------------------------------
 
 London gives:
